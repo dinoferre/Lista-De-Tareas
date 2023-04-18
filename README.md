@@ -10,6 +10,8 @@ JS en la Web: Almacenando datos en el navegador
 
 El resultado fue un listado de tareas donde el usuario puede colocar la tarea que desea realizar, marcarla con un tilde y luego borrarla. Todo esto almacenando los datos en el localStorage del usuario.
 
-Gracias Oracle y Alura Latam por la posibilidad de seguir aprendiendo! 💕
+Dino Ferré 👽
 
-Link del proyecto en About 👉
+Link del proyecto 👇
+
+https://dinoferre.github.io/Lista-De-Tareas/
